@@ -42,7 +42,7 @@ export default {
           { id:1, name: 'John', Occupation: 'Doctor'},
           { id:2, name: 'Anna', Occupation: 'Nurse'},
           { id:3, name: 'Alan', Occupation: 'Teacher'},
-          { id:4, name: 'Maria', Occupation: 'ENgineer'}
+          { id:4, name: 'Maria', Occupation: 'Engineer'}
         ]
       }
   },

@@ -34,7 +34,7 @@ export default {
             alert('Deleted Successfully!');
         })
         .catch(e => {
-            this.errors.push(e);
+            this.errors.push(e)
         });
     }
   },
